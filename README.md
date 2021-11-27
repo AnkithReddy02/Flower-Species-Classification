@@ -3,7 +3,7 @@ Academic Course Mini-Project
 
 This Mini-Project is done as a part of Academic Course - CS306
 
-Comparison of various classification Algorithms such as Logistic Regression, Perceptron Learning Algorithm, Single Layer Perceptron and Multi Layer Perceptron are made.
+Comparison of various Classification Algorithms such as Logistic Regression, Perceptron Learning Algorithm, Single Layer Perceptron and Multi Layer Perceptron are made.
 The results are recorded by applying overfitting checking, k-fold cross validation and hyper-parameter tuning.
 
 
